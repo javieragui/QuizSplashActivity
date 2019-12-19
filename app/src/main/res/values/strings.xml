@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizActivity</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string-array name="array_Questions">
+        <item>España es una Republica</item>
+        <item>El 3 de Diciembre es el dia de la constitución</item>
+        <item>Los colores de la bandera de españa son rojo y amarillo</item>
+    </string-array>
+</resources>
